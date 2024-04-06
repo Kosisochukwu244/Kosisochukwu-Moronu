@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kosisochukwu
-- 👀 I’m interested in ...Data science and maghine learning 
+- 👀 I’m interested in ...Data science and machine learning 
 - 🌱 I’m currently learning ... python programming 
 - 💞️ I’m looking to collaborate on ... inculcating data analysis in solving real life problems 
 - 📫 How to reach me ... twitter: @kosiengine , email: godswillchukwudime@gmail.com
